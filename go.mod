@@ -1,4 +1,4 @@
-module github.com/winweb/go-sse-embed-html
+module github.com/winweb/go-fiber-sse-embed-html
 
 go 1.16
 
