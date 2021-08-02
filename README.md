@@ -1,12 +1,12 @@
 # go-fiber-sse-embed-html
  
-##Build
+## Build
 
 ```sh
 $ go build main.go
 ```
 
-##Run 
+## Run 
 
 ```sh
 $ go build main.go
